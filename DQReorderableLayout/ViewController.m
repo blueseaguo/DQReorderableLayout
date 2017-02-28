@@ -80,7 +80,6 @@
     [cell.contentView addSubview:label];
     cell.backgroundColor = [UIColor whiteColor];
     
-    
     return cell;
 }
 
